@@ -1,0 +1,9 @@
+which country does make the big revenue?
+does the profit increase or decrease over time ?
+by what percent does the profit increase or decrease?
+How many customers does our retail store serve?
+-------------------------------------------------------------------
+do the customers use our service many times?
+how many times did they use our  service?
+what is the best selling product?
+Which Month Made The Highest Average Revenue?
