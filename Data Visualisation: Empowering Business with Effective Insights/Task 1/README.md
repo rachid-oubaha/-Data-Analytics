@@ -1,6 +1,6 @@
 ## Framing the Business Scenario
 
-## Here is your task
+## Here is the task
 
 To prepare for your meeting, you need to draft questions that you think will be important and relevant to the CEO and CMO. This preparation will be your guide as you develop your presentation.
 
